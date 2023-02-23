@@ -1,0 +1,4 @@
+episodes,mean-path-return_agent_0,episode_reward,mean-path-return_agent_1,total-samples,max-path-return_agent_1,last-path-return_agent_0,max-path-return_agent_0,last-path-return_agent_1
+1,16.666666666666668,1,3.3333333333333335,3,10.0,50.0,50.0,10.0
+2,25.0,2,5.0,5,10.0,50.0,50.0,10.0
+3,3.3333333333333335,3,16.666666666666668,8,50.0,10.0,50.0,50.0
